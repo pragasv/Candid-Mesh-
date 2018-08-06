@@ -13,3 +13,14 @@ The Gaussian-Newton approximation is done to match the face colors after the fac
 The ability to match the face swap with taking the facial emotions is an added advantage of this 
 implementation. in the sence , if the mouth is open , the faceswap has the ability to match and
 swap accordingly. 
+
+
+![test_1](https://user-images.githubusercontent.com/22176286/43703915-d1a3cfc0-997b-11e8-8473-eecd40fe7b21.PNG)
+**Marking of all 113 feature points**
+
+![test_2](https://user-images.githubusercontent.com/22176286/43703954-ed70c226-997b-11e8-8220-39d191d98ec1.PNG)
+**Marking of the candid mesh to all available faces**
+
+![test_1](https://user-images.githubusercontent.com/22176286/43703981-feb72a3e-997b-11e8-9b00-7afa596c0eb6.PNG)
+**Image after facewap**
+
