@@ -1,4 +1,4 @@
-#Candid Mesh implementation and face swap
+**Candid Mesh implementation and face swap**
 
 This is an implementation of the candid mesh. We also extract 113 facefeature points. 
 As well as the face swap function very similar to the one used by snapchat. 
